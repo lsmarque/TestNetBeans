@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-         echo "Testing NetBeans on GitHub (edited on gitHub).<br>";
+         echo "Testing NetBeans on GitHub (edited on NetBeans new!).<br>";
         ?>
     </body>
 </html>
